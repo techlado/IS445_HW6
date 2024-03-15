@@ -5,6 +5,5 @@ const bodyNodes = () => {
   for (i = 0; i < body.length; i++) {
     console.log(body[i]);
   };
-  //  console.log(document.body.childNodes);
 }
 bodyNodes();
